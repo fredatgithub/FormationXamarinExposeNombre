@@ -12,12 +12,12 @@ namespace ExposeNombre
 
         private void TxtNum_OnFocused(object sender, FocusEventArgs e)
         {
-            
+
         }
 
         private void TxtExp_OnFocused(object sender, FocusEventArgs e)
         {
-            
+
         }
 
         private async void BtnExpose_OnClicked(object sender, EventArgs e)
@@ -29,12 +29,14 @@ namespace ExposeNombre
             // test du display alert
             var action = await DisplayAlert("Question", "Would you like to display the result ?", "Yes", "No");
 
-            if (action)
-            {
-                lblResult.IsVisible = true;
-                lblResult.Text = info;
-            }
-
+            //if (action)
+            //{
+            //    lblResult.IsVisible = true;
+            //    lblResult.Text = info;
+            //}
+            if (!action) return;
+            lblResult.IsVisible = true;
+            lblResult.Text = info;
         }
 
         async void OnAlertClicked(object sender, EventArgs e)
