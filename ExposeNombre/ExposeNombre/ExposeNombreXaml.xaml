@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ExposeNombre.ExposeNombreXaml">
+  <ContentPage.Content>
+    <StackLayout Spacing="5">
+      <Entry Focused="TxtNum_OnFocused" Placeholder="num" x:Name="txtNum" Text="2"></Entry>
+      <Entry Focused="TxtExp_OnFocused" Placeholder="exp" x:Name="txtExp" Text="3" ></Entry>
+      <Button x:Name="btnExpose" Text="Expose XF" Clicked="BtnExpose_OnClicked"></Button>
+      <Label Margin="2,0,0,0" IsVisible="False" x:Name="lblResult" Text="res" Font="22"></Label>
+    </StackLayout>
+  </ContentPage.Content>
+</ContentPage>
