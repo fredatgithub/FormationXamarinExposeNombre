@@ -2222,8 +2222,8 @@ namespace ExposeNombre.Droid
 			// aapt resource value: 0x7f07005a
 			public const int action_bar = 2131165274;
 			
-			// aapt resource value: 0x7f070019
-			public const int action_bar_activity_content = 2131165209;
+			// aapt resource value: 0x7f070001
+			public const int action_bar_activity_content = 2131165185;
 			
 			// aapt resource value: 0x7f070059
 			public const int action_bar_container = 2131165273;
@@ -2231,8 +2231,8 @@ namespace ExposeNombre.Droid
 			// aapt resource value: 0x7f070055
 			public const int action_bar_root = 2131165269;
 			
-			// aapt resource value: 0x7f07001a
-			public const int action_bar_spinner = 2131165210;
+			// aapt resource value: 0x7f070002
+			public const int action_bar_spinner = 2131165186;
 			
 			// aapt resource value: 0x7f07003b
 			public const int action_bar_subtitle = 2131165243;
@@ -2246,11 +2246,11 @@ namespace ExposeNombre.Droid
 			// aapt resource value: 0x7f07008f
 			public const int action_divider = 2131165327;
 			
-			// aapt resource value: 0x7f07001b
-			public const int action_menu_divider = 2131165211;
+			// aapt resource value: 0x7f070003
+			public const int action_menu_divider = 2131165187;
 			
-			// aapt resource value: 0x7f07001c
-			public const int action_menu_presenter = 2131165212;
+			// aapt resource value: 0x7f070004
+			public const int action_menu_presenter = 2131165188;
 			
 			// aapt resource value: 0x7f070057
 			public const int action_mode_bar = 2131165271;
@@ -2267,11 +2267,11 @@ namespace ExposeNombre.Droid
 			// aapt resource value: 0x7f070049
 			public const int alertTitle = 2131165257;
 			
-			// aapt resource value: 0x7f070016
-			public const int always = 2131165206;
+			// aapt resource value: 0x7f07001e
+			public const int always = 2131165214;
 			
-			// aapt resource value: 0x7f070011
-			public const int beginning = 2131165201;
+			// aapt resource value: 0x7f07001b
+			public const int beginning = 2131165211;
 			
 			// aapt resource value: 0x7f07002a
 			public const int bottom = 2131165226;
@@ -2282,11 +2282,11 @@ namespace ExposeNombre.Droid
 			// aapt resource value: 0x7f07008c
 			public const int cancel_action = 2131165324;
 			
-			// aapt resource value: 0x7f070030
-			public const int center = 2131165232;
+			// aapt resource value: 0x7f07002b
+			public const int center = 2131165227;
 			
-			// aapt resource value: 0x7f07002f
-			public const int center_horizontal = 2131165231;
+			// aapt resource value: 0x7f07002c
+			public const int center_horizontal = 2131165228;
 			
 			// aapt resource value: 0x7f07002d
 			public const int center_vertical = 2131165229;
@@ -2297,14 +2297,14 @@ namespace ExposeNombre.Droid
 			// aapt resource value: 0x7f070092
 			public const int chronometer = 2131165330;
 			
-			// aapt resource value: 0x7f070035
-			public const int clip_horizontal = 2131165237;
+			// aapt resource value: 0x7f070033
+			public const int clip_horizontal = 2131165235;
 			
 			// aapt resource value: 0x7f070034
 			public const int clip_vertical = 2131165236;
 			
-			// aapt resource value: 0x7f070018
-			public const int collapseActionView = 2131165208;
+			// aapt resource value: 0x7f07001f
+			public const int collapseActionView = 2131165215;
 			
 			// aapt resource value: 0x7f07004a
 			public const int contentPanel = 2131165258;
@@ -2336,26 +2336,26 @@ namespace ExposeNombre.Droid
 			// aapt resource value: 0x7f07006e
 			public const int design_navigation_view = 2131165294;
 			
-			// aapt resource value: 0x7f07000a
-			public const int disableHome = 2131165194;
+			// aapt resource value: 0x7f07000e
+			public const int disableHome = 2131165198;
 			
 			// aapt resource value: 0x7f07005c
 			public const int edit_query = 2131165276;
 			
-			// aapt resource value: 0x7f070013
-			public const int end = 2131165203;
+			// aapt resource value: 0x7f07001c
+			public const int end = 2131165212;
 			
 			// aapt resource value: 0x7f070097
 			public const int end_padder = 2131165335;
 			
+			// aapt resource value: 0x7f070023
+			public const int enterAlways = 2131165219;
+			
 			// aapt resource value: 0x7f070024
-			public const int enterAlways = 2131165220;
+			public const int enterAlwaysCollapsed = 2131165220;
 			
 			// aapt resource value: 0x7f070025
-			public const int enterAlwaysCollapsed = 2131165221;
-			
-			// aapt resource value: 0x7f070023
-			public const int exitUntilCollapsed = 2131165219;
+			public const int exitUntilCollapsed = 2131165221;
 			
 			// aapt resource value: 0x7f07003e
 			public const int expand_activities_button = 2131165246;
@@ -2363,11 +2363,11 @@ namespace ExposeNombre.Droid
 			// aapt resource value: 0x7f070051
 			public const int expanded_menu = 2131165265;
 			
-			// aapt resource value: 0x7f070033
-			public const int fill = 2131165235;
+			// aapt resource value: 0x7f070035
+			public const int fill = 2131165237;
 			
-			// aapt resource value: 0x7f070032
-			public const int fill_horizontal = 2131165234;
+			// aapt resource value: 0x7f070036
+			public const int fill_horizontal = 2131165238;
 			
 			// aapt resource value: 0x7f07002e
 			public const int fill_vertical = 2131165230;
@@ -2375,17 +2375,17 @@ namespace ExposeNombre.Droid
 			// aapt resource value: 0x7f070038
 			public const int @fixed = 2131165240;
 			
-			// aapt resource value: 0x7f07001d
-			public const int home = 2131165213;
+			// aapt resource value: 0x7f070005
+			public const int home = 2131165189;
 			
-			// aapt resource value: 0x7f070007
-			public const int homeAsUp = 2131165191;
+			// aapt resource value: 0x7f07000f
+			public const int homeAsUp = 2131165199;
 			
 			// aapt resource value: 0x7f070042
 			public const int icon = 2131165250;
 			
-			// aapt resource value: 0x7f070015
-			public const int ifRoom = 2131165205;
+			// aapt resource value: 0x7f070020
+			public const int ifRoom = 2131165216;
 			
 			// aapt resource value: 0x7f07003f
 			public const int image = 2131165247;
@@ -2396,8 +2396,8 @@ namespace ExposeNombre.Droid
 			// aapt resource value: 0x7f070000
 			public const int item_touch_helper_previous_elevation = 2131165184;
 			
-			// aapt resource value: 0x7f07002b
-			public const int left = 2131165227;
+			// aapt resource value: 0x7f07002f
+			public const int left = 2131165231;
 			
 			// aapt resource value: 0x7f070090
 			public const int line1 = 2131165328;
@@ -2405,8 +2405,8 @@ namespace ExposeNombre.Droid
 			// aapt resource value: 0x7f070094
 			public const int line3 = 2131165332;
 			
-			// aapt resource value: 0x7f070002
-			public const int listMode = 2131165186;
+			// aapt resource value: 0x7f07000b
+			public const int listMode = 2131165195;
 			
 			// aapt resource value: 0x7f070041
 			public const int list_item = 2131165249;
@@ -2414,11 +2414,11 @@ namespace ExposeNombre.Droid
 			// aapt resource value: 0x7f07008e
 			public const int media_actions = 2131165326;
 			
-			// aapt resource value: 0x7f070012
-			public const int middle = 2131165202;
+			// aapt resource value: 0x7f07001d
+			public const int middle = 2131165213;
 			
-			// aapt resource value: 0x7f070036
-			public const int mini = 2131165238;
+			// aapt resource value: 0x7f070037
+			public const int mini = 2131165239;
 			
 			// aapt resource value: 0x7f07007d
 			public const int mr_art = 2131165309;
@@ -2492,20 +2492,20 @@ namespace ExposeNombre.Droid
 			// aapt resource value: 0x7f070085
 			public const int mr_volume_slider = 2131165317;
 			
-			// aapt resource value: 0x7f07000f
-			public const int multiply = 2131165199;
+			// aapt resource value: 0x7f070016
+			public const int multiply = 2131165206;
 			
 			// aapt resource value: 0x7f07006d
 			public const int navigation_header_container = 2131165293;
 			
-			// aapt resource value: 0x7f070014
-			public const int never = 2131165204;
+			// aapt resource value: 0x7f070021
+			public const int never = 2131165217;
 			
-			// aapt resource value: 0x7f070004
-			public const int none = 2131165188;
+			// aapt resource value: 0x7f070010
+			public const int none = 2131165200;
 			
-			// aapt resource value: 0x7f070001
-			public const int normal = 2131165185;
+			// aapt resource value: 0x7f07000c
+			public const int normal = 2131165196;
 			
 			// aapt resource value: 0x7f070028
 			public const int parallax = 2131165224;
@@ -2513,26 +2513,26 @@ namespace ExposeNombre.Droid
 			// aapt resource value: 0x7f070046
 			public const int parentPanel = 2131165254;
 			
-			// aapt resource value: 0x7f070027
-			public const int pin = 2131165223;
+			// aapt resource value: 0x7f070029
+			public const int pin = 2131165225;
 			
-			// aapt resource value: 0x7f07001e
-			public const int progress_circular = 2131165214;
+			// aapt resource value: 0x7f070006
+			public const int progress_circular = 2131165190;
 			
-			// aapt resource value: 0x7f07001f
-			public const int progress_horizontal = 2131165215;
+			// aapt resource value: 0x7f070007
+			public const int progress_horizontal = 2131165191;
 			
 			// aapt resource value: 0x7f070054
 			public const int radio = 2131165268;
 			
-			// aapt resource value: 0x7f07002c
-			public const int right = 2131165228;
+			// aapt resource value: 0x7f070030
+			public const int right = 2131165232;
 			
-			// aapt resource value: 0x7f070010
-			public const int screen = 2131165200;
+			// aapt resource value: 0x7f070017
+			public const int screen = 2131165207;
 			
-			// aapt resource value: 0x7f070022
-			public const int scroll = 2131165218;
+			// aapt resource value: 0x7f070026
+			public const int scroll = 2131165222;
 			
 			// aapt resource value: 0x7f07004e
 			public const int scrollIndicatorDown = 2131165262;
@@ -2543,8 +2543,8 @@ namespace ExposeNombre.Droid
 			// aapt resource value: 0x7f07004c
 			public const int scrollView = 2131165260;
 			
-			// aapt resource value: 0x7f070037
-			public const int scrollable = 2131165239;
+			// aapt resource value: 0x7f070039
+			public const int scrollable = 2131165241;
 			
 			// aapt resource value: 0x7f07005e
 			public const int search_badge = 2131165278;
@@ -2582,14 +2582,14 @@ namespace ExposeNombre.Droid
 			// aapt resource value: 0x7f070053
 			public const int shortcut = 2131165267;
 			
-			// aapt resource value: 0x7f070009
-			public const int showCustom = 2131165193;
+			// aapt resource value: 0x7f070011
+			public const int showCustom = 2131165201;
 			
-			// aapt resource value: 0x7f070006
-			public const int showHome = 2131165190;
+			// aapt resource value: 0x7f070012
+			public const int showHome = 2131165202;
 			
-			// aapt resource value: 0x7f070008
-			public const int showTitle = 2131165192;
+			// aapt resource value: 0x7f070013
+			public const int showTitle = 2131165203;
 			
 			// aapt resource value: 0x7f070098
 			public const int sliding_tabs = 2131165336;
@@ -2600,23 +2600,23 @@ namespace ExposeNombre.Droid
 			// aapt resource value: 0x7f07006b
 			public const int snackbar_text = 2131165291;
 			
-			// aapt resource value: 0x7f070026
-			public const int snap = 2131165222;
+			// aapt resource value: 0x7f070027
+			public const int snap = 2131165223;
 			
 			// aapt resource value: 0x7f070045
 			public const int spacer = 2131165253;
 			
-			// aapt resource value: 0x7f070020
-			public const int split_action_bar = 2131165216;
+			// aapt resource value: 0x7f070008
+			public const int split_action_bar = 2131165192;
 			
-			// aapt resource value: 0x7f07000e
-			public const int src_atop = 2131165198;
+			// aapt resource value: 0x7f070018
+			public const int src_atop = 2131165208;
 			
-			// aapt resource value: 0x7f07000d
-			public const int src_in = 2131165197;
+			// aapt resource value: 0x7f070019
+			public const int src_in = 2131165209;
 			
-			// aapt resource value: 0x7f07000c
-			public const int src_over = 2131165196;
+			// aapt resource value: 0x7f07001a
+			public const int src_over = 2131165210;
 			
 			// aapt resource value: 0x7f070031
 			public const int start = 2131165233;
@@ -2627,8 +2627,8 @@ namespace ExposeNombre.Droid
 			// aapt resource value: 0x7f070065
 			public const int submit_area = 2131165285;
 			
-			// aapt resource value: 0x7f070003
-			public const int tabMode = 2131165187;
+			// aapt resource value: 0x7f07000d
+			public const int tabMode = 2131165197;
 			
 			// aapt resource value: 0x7f070095
 			public const int text = 2131165333;
@@ -2651,8 +2651,8 @@ namespace ExposeNombre.Droid
 			// aapt resource value: 0x7f070099
 			public const int toolbar = 2131165337;
 			
-			// aapt resource value: 0x7f070029
-			public const int top = 2131165225;
+			// aapt resource value: 0x7f070032
+			public const int top = 2131165234;
 			
 			// aapt resource value: 0x7f070047
 			public const int topPanel = 2131165255;
@@ -2660,23 +2660,23 @@ namespace ExposeNombre.Droid
 			// aapt resource value: 0x7f070069
 			public const int touch_outside = 2131165289;
 			
-			// aapt resource value: 0x7f070021
-			public const int up = 2131165217;
+			// aapt resource value: 0x7f070009
+			public const int up = 2131165193;
 			
-			// aapt resource value: 0x7f070005
-			public const int useLogo = 2131165189;
+			// aapt resource value: 0x7f070014
+			public const int useLogo = 2131165204;
 			
-			// aapt resource value: 0x7f070039
-			public const int view_offset_helper = 2131165241;
+			// aapt resource value: 0x7f07000a
+			public const int view_offset_helper = 2131165194;
 			
 			// aapt resource value: 0x7f070083
 			public const int volume_item_container = 2131165315;
 			
-			// aapt resource value: 0x7f070017
-			public const int withText = 2131165207;
+			// aapt resource value: 0x7f070022
+			public const int withText = 2131165218;
 			
-			// aapt resource value: 0x7f07000b
-			public const int wrap_content = 2131165195;
+			// aapt resource value: 0x7f070015
+			public const int wrap_content = 2131165205;
 			
 			static Id()
 			{

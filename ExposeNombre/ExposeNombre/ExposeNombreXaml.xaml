@@ -1,6 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:ExposeNombre"
+             xmlns:helper="clr-namespace:ExposeNombre.Helper"
+             Padding="{x:Static helper:AppConstants.PagePadding}"
              x:Class="ExposeNombre.ExposeNombreXaml">
   <ContentPage.Content>
     <StackLayout Spacing="5">
@@ -9,5 +12,12 @@
       <Button x:Name="btnExpose" Text="Expose XF" Clicked="BtnExpose_OnClicked"></Button>
       <Label Margin="2,0,0,0" IsVisible="False" x:Name="lblResult" Text="res" Font="22"></Label>
     </StackLayout>
+    <!--<ContentPage.Padding>
+      <OnPlatform x:TypeArguments="Thickness">
+        <On Platform="Android" Value="0, 0, 0, 0"/>
+        <On Platform="iOS" Value="0, 20, 0, 0"/>
+        <On Platform="WinPhone">0</On>
+      </OnPlatform>
+    </ContentPage.Padding>-->
   </ContentPage.Content>
 </ContentPage>

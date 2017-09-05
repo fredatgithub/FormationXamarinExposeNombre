@@ -31,7 +31,6 @@ namespace ExposeNombre
             {
                 Orientation = StackOrientation.Vertical,
                 Children = {txtNum, txtExp, btnExpose, lblResult }
-                
             };
         }
     }
